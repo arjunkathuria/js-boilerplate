@@ -1,0 +1,28 @@
+{
+  "name": "js-boilerplate",
+  "version": "0.0.1",
+  "description": "a standard no-fuss boilerplate for ambitious js applications and libraries, includes testing via QUnit.js and linting by eslint + ember-suave plugin",
+  "scripts": {
+    "connect": "serve -p 8000 ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-plugin-ember-suave": "^1.0.0",
+    "qunitjs": "^2.0.1",
+    "serve": "^1.4.0"
+  },
+  "keywords": [
+    "javascript",
+    "App",
+    "architecture",
+    "boilerplate",
+    "scaffold"
+  ]
+}
